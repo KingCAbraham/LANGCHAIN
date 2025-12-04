@@ -1,0 +1,58 @@
+[
+  {
+    "role": "user",
+    "content": "Hola, me llamo Carlos"
+  },
+  {
+    "role": "assistant",
+    "content": "\nHola Carlos, ¿cómo estás hoy? ¿En qué puedo ayudarte?"
+  },
+  {
+    "role": "user",
+    "content": "Te platico que, tengo 25 años y estudio en la universidad de león."
+  },
+  {
+    "role": "assistant",
+    "content": "\nGenial, Carlos. Estudiando en la Universidad de León, ¿te gusta la ciudad? ¿Te encuentras bien con el ritmo de tus estudios?"
+  },
+  {
+    "role": "user",
+    "content": "Me gusta el clima de León GTO"
+  },
+  {
+    "role": "assistant",
+    "content": "\nGenial, Carlos! Me alegra saber que te gusta el clima de León GTO, es un clima cálido y agradable, ¿no te parece? ¿Qué te gustaría saber sobre la ciudad o sus alrededores?"
+  },
+  {
+    "role": "user",
+    "content": "Sabes que edad tengo?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nCarlos, tienes 25 años."
+  },
+  {
+    "role": "user",
+    "content": "En donde estudio?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nEn la Universidad de León."
+  },
+  {
+    "role": "user",
+    "content": "En donde vivo?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nParece que no mencionaste el departamento donde vives, Carlos. No tengo esa información, pero sí sé que estudias en la Universidad de León. ¿Debería hacer una suposición o prefieres aclarar?"
+  },
+  {
+    "role": "user",
+    "content": "De que hemos hablado?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nHemos hablado sobre que te llamas Carlos, tienes 25 años y estudias en la Universidad de León. También mencionaste que te gusta el clima de León GTO, pero no mencionaste a qué departamento te refieres. ¡Espero que la conversación te haya sido útil!"
+  }
+]
